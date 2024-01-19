@@ -21,5 +21,5 @@
 -  PhotoShop2018'
 - 'VisualStudio 2019'
 
-## 📌게임 설명
-<h4>게임 기술서:</h4><a href="">MetaFarm3D Unity 기술 설명서.</a>
+## 📌게임 기획 기술 설명서
+<h4>게임 기술서:</h4><a href="https://drive.google.com/file/d/1l1aFaotpLNBXm2Jt1FA_de4rqXnQtMCz/view?usp=sharing">MetaFarm3D Unity 기술 설명서.</a>
