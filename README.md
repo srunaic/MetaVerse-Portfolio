@@ -38,5 +38,5 @@
 ## 📌게임 시연 영상
 <a href="https://youtu.be/UGKbNAbp1oo"> 3D MetaFarm 시연 영상 </a>
 
-## 📌게임 기획 기술 설명서
-<h4>게임 기술서:</h4><a href="https://drive.google.com/file/d/1l1aFaotpLNBXm2Jt1FA_de4rqXnQtMCz/view?usp=sharing">MetaFarm3D Unity 기술 설명서.</a>
+## 📌게임 개발 디자인
+<h4>게임 기술서:</h4><a href="https://drive.google.com/file/d/1ds8RdNsn3he_K10AKwJMmt4OoHrfmgmq/view?usp=sharing">MetaFarm3D Unity 기술 설명서.</a>
